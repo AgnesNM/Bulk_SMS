@@ -24,6 +24,8 @@ They have a very nice Python script, but I needed to not hard code the phone num
 4. Good API documentation.
 
 5. The ability to format the data at the database level before working with it.
+   
+6. The status of the messages after they're sent (successful, sent and failed) 
 
 Anyway, this very small project got me thinking a lot. The script I used is by no means perfect, but it's a work in progress.😄 
 
